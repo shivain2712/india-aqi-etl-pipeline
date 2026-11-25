@@ -1,4 +1,22 @@
+# Secrets & environment variables
 .env
+
+# Virtual environment
 venv/
+.venv/
+
+# Python cache & bytecode
 __pycache__/
+*.py[cod]
+*$py.class
+
+# Local runtime logs
 logs/
+*.log
+
+# IDE & OS clutter
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini

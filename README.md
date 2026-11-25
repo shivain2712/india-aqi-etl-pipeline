@@ -101,7 +101,7 @@ india-aqi-etl-pipeline/
 
 1. **Clone the repository and create a virtual environment:**
    ```bash
-   git clone [https://github.com/](https://github.com/)<your-username>/india-aqi-etl-pipeline.git
+   git clone https://github.com/shivain2712/india-aqi-etl-pipeline.git
    cd india-aqi-etl-pipeline
    python -m venv venv
    .\venv\Scripts\activate
